@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am <a href="https://github.com/aptvaibhav"> Vaibhav Tyagi</a>. An Undergraduate from IT branch. I am currently working as a Freelancer,I love to create Websites,App devlopment as well Machine Learning projects.I am the head of a club  <a href="https://innovoinfinity.github.io/Innovo-Infinity/">Innovo Infinity</a>  
+I am <a href="https://www.linkedin.com/in/vaibhav-tyagi-4060781a0/"> Vaibhav Tyagi</a>. A graduate Student at Stony Brook University. I am currently working as a Freelancer,I love to create Websites,do App devlopment as well Machine Learning projects.I am the head of a club  <a href="https://innovoinfinity.github.io/Innovo-Infinity/">Innovo Infinity</a>  
 
 </br>
 <img align="right" height="350px" width="450px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
