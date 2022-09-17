@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am <a href="https://www.linkedin.com/in/vaibhav-tyagi-4060781a0/"> Vaibhav Tyagi</a>. A graduate Student at Stony Brook University pursuing MS in Computer Engineering. I am currently working as a Freelancer,I love to create Websites,do App devlopment as well Machine Learning projects.I am the head of a club  <a href="https://innovoinfinity.github.io/Innovo-Infinity/">Innovo Infinity</a>  
+I am <a href="https://www.linkedin.com/in/vaibhav-tyagi-4060781a0/"> Vaibhav Tyagi</a>. Currently pursuing my graduation at Stony Brook University (State University of New York) in Computer Engineering. I am good at Web Technologies, Data Structures, Operating Systems and Database management. I also have good problem-solving abilities and agility to adapt in any situation. I was looking for an Organization that embraces creativity and innovation in me.
 
 </br>
 <img align="right" height="350px" width="450px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
