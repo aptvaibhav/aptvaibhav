@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am <a href="https://www.linkedin.com/in/vaibhav-tyagi-4060781a0/"> Vaibhav Tyagi</a>. Currently working as a Software Engineer @Barclays. I am good at Full Stack Development, Data Structures, Operating Systems, Machiene Learning and Database management. I also have good problem-solving abilities and agility to adapt in any situation. I was looking for an Organization that embraces creativity and innovation in me.
+I am <a href="https://www.linkedin.com/in/vaibhav-tyagi-4060781a0/"> Vaibhav Tyagi</a>. Currently working as a Software Engineer @Amazon. I am good at Machiene Learning, GenAI Development, Full Stack Development, Data Structures, Operating Systems, and Database management. I also have good problem-solving abilities and agility to adapt in any situation. I was looking for an Organization that embraces creativity and innovation in me.
 
 </br>
 <img align="right" height="350px" width="450px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
